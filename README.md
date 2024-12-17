@@ -1,3 +1,3 @@
 # gitdemo
 Demo of git<br>
-Author -Roshan
+Author -Roshan Bagale
